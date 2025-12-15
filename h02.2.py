@@ -23,4 +23,8 @@ t.pencolor("blue")
 t.rt(90)
 t.circle(80)
 
+<<<<<<< HEAD
 turtle.done()
+=======
+turtle.done()
+>>>>>>> 3152c32e715c75724ea231d638081557b2f92303
